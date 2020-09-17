@@ -1,12 +1,12 @@
-## First Name, Last Name:
+ First Name, Last Name:
 ***
 ### Balysh Pavel
 ***
-## Contact Info:
+ Contact Info:
 ***
 ### +375(29) 506-57-66 (whatsApp, viber, telegram)
 ***
-## Summary:
+ Summary:
 ***
 ### I am 33 years old - and created a new branch of my life.
 ### It is called Frontend Developer.
@@ -15,6 +15,6 @@
 ### It is difficult for me now to understand everything new, it is a different world.
 ### But my eyes are burning and I can do it, I like it.
 ***
-## English:
+ English:
 ***
 ### I have an elementary level of English
